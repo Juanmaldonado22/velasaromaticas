@@ -1,0 +1,52 @@
+nav{
+    display: flex;
+    align-items:first baseline;
+    justify-content: space-between;
+    padding-top: 1px;
+    background: linear-gradient(to bottom right, rgb(224, 148, 196), pink);
+    padding-left: 2%;
+    padding-right:5%;
+    font-weight: 500 ;
+}
+    
+h1{
+    color: rgb(131, 7, 169);
+    font-size: 55px;
+    font-style: oblique;
+}
+h2{
+    color: rgb(102, 18, 103);
+    font-style: italic;
+    font-size: 30px;
+    padding-left: 0%;
+}
+ul li{
+    display: inline-block;
+    padding: 0px 30px;
+}
+a{
+    color: rgb(49, 33, 156);
+    text-decoration: none;
+    font-size: 20px;
+    -webkit-text-stroke-width: 2px;
+}
+a:hover{
+    color: rgb(41, 28, 128);
+}
+
+main{
+    font-size: 25px;
+    text-align: center;
+}
+h3{
+    color: rgb(102, 18, 103);
+    font-style: italic;
+    font-size: 25px;
+}
+body{
+    background: linear-gradient(to bottom right, rgb(207, 206, 129), rgb(231, 161, 173));
+}
+footer{
+    text-align: center;
+    color: black;
+}
